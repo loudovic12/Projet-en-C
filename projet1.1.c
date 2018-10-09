@@ -16,7 +16,7 @@ int main (void)
 	puts("Erreur de lecture fichier\n"); 
   }
 	 
-  	printf("Id: ");
+  	printf("ID: ");
   	scanf("%d", &id);
   	printf("Nom : ");
   	scanf("%s",&nom);
